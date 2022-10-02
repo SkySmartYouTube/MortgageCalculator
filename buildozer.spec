@@ -49,7 +49,7 @@ presplash.filename = %(source.dir)s/data/logo/presplash512okmin.png
 icon.filename = %(source.dir)s/data/logo/png-transparent-ping-pong-paddles-sets-computer-icons-ping-pong-game-sport-sports-equipment-thumbnail.png
 
 # (str) Supported orientation (one of landscape, sensorLandscape, portrait or all)
-orientation = portrait
+orientation = landscape
 
 # (list) List of service to declare
 #services = NAME:ENTRYPOINT_TO_PY,NAME2:ENTRYPOINT2_TO_PY
